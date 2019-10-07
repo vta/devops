@@ -4,7 +4,7 @@ VTA development teams have implemented a Board of Directors initiative to adopt 
 
 ## Agile DevOps SDLC pathways
 
-<img src="./images/DevOpsAgileSDLC_v2.png" width="765" height="990" border="0" usemap="#DevOps Agile SDLC" />
+<img src="images/DevOps_SDLC-Agile_v2.png" width="765" height="990" border="0" usemap="#DevOps Agile SDLC" />
 
 <map name="DevOps Agile SDLC">
 <area shape="circle" coords="383,78,52" alt="GitHub - DevOps : awesome learning" target="_blank" href="https://github.com/Lets-DevOps/awesome-learning" />

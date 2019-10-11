@@ -38,45 +38,54 @@ DevOps is the Development and Operations efforts within any organization.
 
 ![Cloud](images/Cloud.png)
 
-Cloud concepts facilitate possibilities for applications within to exist.
+Cloud concepts provide possibilities with structures for applications to exist.
 
 ### Design
 @see - [W3C Web Design Standards](https://www.w3.org/standards/webdesign/)
 
 ![Design](images/Design.png)
 
-Design specifications provide industry-standards and best practices for applications.
+Design specifications provide industry-standards with best practices for applications.
 
 ### Planning
 @see - [OpenProject CE - Agile and SCRUM management](https://www.openproject.org/download-and-installation/)
 
 ![Planning](images/Planning.png)
 
-Planning projects properly prevents poor performance and promotes proper procedures.
+Planning projects properly prevents poor performance and promoting proper procedures.
 
 ### Operations
 @see - [Debian Handbook - Monitoring](https://debian-handbook.info/browse/stable/sect.monitoring.html)
 
-Operations monitor and improve the activities of applications.
+Operations monitor and improves the activities for applications.
 
 ### Development
 @see - [Launchpad Development Wiki](https://dev.launchpad.net/)
 
 ![Development](images/Development.png)
 
-Development coding efforts incrementally contribute to building applications.
+Development coding efforts incrementally contribute for building applications.
 
 ### Agile
 @see - [Agile Model &amp; Methodology: Guide for Developers and Testers](https://www.guru99.com/agile-scrum-extreme-testing.html)
 
-Agile methodologies define the flexible processes and policies for team performance and velocity.
+![Agile](images/Agile.png)
+
+Agile methodologies define flexible processes and policies for team performance and velocity.
 
 ### CD - Continous Delivery
 @see - [Continuous Delivery Pipleline](https://en.wikipedia.org/wiki/Continuous_delivery)
 
+![CD](images/CD.png)
+
+Coninuous Delivery pipelines define deployment stages for applications.
+
 ### CI - Continous Integration
 @see - [Continuous Integration Processes](https://en.wikipedia.org/wiki/Continuous_integration)
 
+![CI](images/CI.png)
+
+Continuous Integration define testing cycles for applications.
 
 ### UAT - User Acceptance Testing
 @see - [User Acceptance Testing](https://www.toolsqa.com/software-testing/user-acceptance-testing-uat/)

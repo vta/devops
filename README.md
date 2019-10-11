@@ -27,42 +27,55 @@ As time permits, we will continue our efforts to add documentation, guidelines, 
 
 
 ### DevOps
-![DevOps](images/DevOps.png)
-
 @see - [GitHub - DevOps : awesome learning](https://github.com/Lets-DevOps/awesome-learning)
 
+![DevOps](images/DevOps.png)
+
+DevOps is the Development and Operations efforts within an organization.
 
 ### Cloud
+@ see - [IT Infrastructure](https://en.wikipedia.org/wiki/IT_infrastructure)
 
+![Cloud](images/Cloud.png)
+
+Cloud concepts facilitate many possibilities for applications.
 
 ### Design
+@see - [W3C Web Design Standards](https://www.w3.org/standards/webdesign/)
 
+![Design](images/Design.png)
+
+Design standards provide the rules for containing an application.
 
 ### Planning
+@see - [OpenProject CE - Agile and SCRUM management](https://www.openproject.org/download-and-installation/)
 
+![Planning](images/Planning.png)
+
+Planning projects properly prevents poor performance and promotes proper procedures.
 
 ### Operations
-
+@see - [Debian Handbook - Monitoring](https://debian-handbook.info/browse/stable/sect.monitoring.html)
 
 ### Development
-
+@see - [Launchpad Development Wiki](https://dev.launchpad.net/)
 
 ### Agile
-
+@see - [Agile Model &amp; Methodology: Guide for Developers and Testers](https://www.guru99.com/agile-scrum-extreme-testing.html)
 
 ### CD - Continous Delivery
-
+@see - [Continuous Delivery Pipleline](https://en.wikipedia.org/wiki/Continuous_delivery)
 
 ### CI - Continous Integration
-
+@see - [Continuous Integration Processes](https://en.wikipedia.org/wiki/Continuous_integration)
 
 
 ### UAT - User Acceptance Testing
-
+@see - [User Acceptance Testing](https://www.toolsqa.com/software-testing/user-acceptance-testing-uat/)
 
 
 ### SDLC - Software Development Life Cycle
-
+![SDLC - Software Development Life Cycle](https://www.softwaretestingmaterial.com/sdlc-software-development-life-cycle/)
 
 
 

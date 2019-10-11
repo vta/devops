@@ -52,19 +52,19 @@ Design specifications provide industry-standards with best practices for applica
 
 ![Planning](images/Planning.png)
 
-Planning projects properly prevents poor performance and promoting proper procedures.
+Planning projects properly promotes performance and procedures.
 
 ### Operations
 @see - [Debian Handbook - Monitoring](https://debian-handbook.info/browse/stable/sect.monitoring.html)
 
-Operations monitor and improves the activities for applications.
+Operations monitor efforts incrementally advance performance for applications.
 
 ### Development
 @see - [Launchpad Development Wiki](https://dev.launchpad.net/)
 
 ![Development](images/Development.png)
 
-Development coding efforts incrementally contribute for building applications.
+Development coding efforts incrementally advance contributions for applications.
 
 ### Agile
 @see - [Agile Model &amp; Methodology: Guide for Developers and Testers](https://www.guru99.com/agile-scrum-extreme-testing.html)
@@ -78,14 +78,14 @@ Agile methodologies define flexible processes and policies for team performance 
 
 ![CD](images/CD.png)
 
-Coninuous Delivery pipelines define deployment stages for applications.
+Coninuous Delivery defines deployment stages for applications.
 
 ### CI - Continous Integration
 @see - [Continuous Integration Processes](https://en.wikipedia.org/wiki/Continuous_integration)
 
 ![CI](images/CI.png)
 
-Continuous Integration define testing cycles for applications.
+Continuous Integration defines testing cycles for applications.
 
 ### UAT - User Acceptance Testing
 @see - [User Acceptance Testing](https://www.toolsqa.com/software-testing/user-acceptance-testing-uat/)

@@ -90,10 +90,16 @@ Continuous Integration defines testing cycles for applications.
 ### UAT - User Acceptance Testing
 @see - [User Acceptance Testing](https://www.toolsqa.com/software-testing/user-acceptance-testing-uat/)
 
+![UAT](images/UAT.png)
+
+User Acceptance Testing is the process for validating applications.
 
 ### SDLC - Software Development Life Cycle
-![SDLC - Software Development Life Cycle](https://www.softwaretestingmaterial.com/sdlc-software-development-life-cycle/)
+@see - [SDLC - Software Development Life Cycle](https://www.softwaretestingmaterial.com/sdlc-software-development-life-cycle/)
 
+![SDLC](images/SDLC.png)
+
+Software Development Life Cycle is the evolution process for applications.
 
 
 

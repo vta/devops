@@ -31,21 +31,21 @@ As time permits, we will continue our efforts to add documentation, guidelines, 
 
 ![DevOps](images/DevOps.png)
 
-DevOps is the Development and Operations efforts within an organization.
+DevOps is the Development and Operations efforts within any organization.
 
 ### Cloud
 @ see - [IT Infrastructure](https://en.wikipedia.org/wiki/IT_infrastructure)
 
 ![Cloud](images/Cloud.png)
 
-Cloud concepts facilitate many possibilities for applications.
+Cloud concepts facilitate possibilities for applications within to exist.
 
 ### Design
 @see - [W3C Web Design Standards](https://www.w3.org/standards/webdesign/)
 
 ![Design](images/Design.png)
 
-Design standards provide the rules for containing an application.
+Design specifications provide industry-standards and best practices for applications.
 
 ### Planning
 @see - [OpenProject CE - Agile and SCRUM management](https://www.openproject.org/download-and-installation/)
@@ -57,11 +57,19 @@ Planning projects properly prevents poor performance and promotes proper procedu
 ### Operations
 @see - [Debian Handbook - Monitoring](https://debian-handbook.info/browse/stable/sect.monitoring.html)
 
+Operations monitor and improve the activities of applications.
+
 ### Development
 @see - [Launchpad Development Wiki](https://dev.launchpad.net/)
 
+![Development](images/Development.png)
+
+Development coding efforts incrementally contribute to building applications.
+
 ### Agile
 @see - [Agile Model &amp; Methodology: Guide for Developers and Testers](https://www.guru99.com/agile-scrum-extreme-testing.html)
+
+Agile methodologies define the flexible processes and policies for team performance and velocity.
 
 ### CD - Continous Delivery
 @see - [Continuous Delivery Pipleline](https://en.wikipedia.org/wiki/Continuous_delivery)

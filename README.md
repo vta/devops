@@ -8,7 +8,7 @@ As time permits, we will continue our efforts to add documentation, guidelines, 
 ## Agile DevOps SDLC pathways
 
 <a href="https://github.com/vta/devops/wiki" title="Agile DevOps SDLC Guidelines">
-    <img src="images/DevOps_SDLC-Agile_v2.png" width="765" height="990" border="0" usemap="#DevOpsAgileSDLC" />
+    <img src="images/DevOps_SDLC-Agile_v2.png" border="0" usemap="#DevOpsAgileSDLC" />
 </a>
 
 <map name="DevOpsAgileSDLC">

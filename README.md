@@ -24,3 +24,83 @@ As time permits, we will continue our efforts to add documentation, guidelines, 
 <area shape="circle" coords="384,704,52" alt="User Acceptance Testing " target="_blank" href="https://www.toolsqa.com/software-testing/user-acceptance-testing-uat/" />
 <area shape="circle" coords="383,868,65" alt="SDLC - Software Development Life Cycle" target="_blank" href="https://www.softwaretestingmaterial.com/sdlc-software-development-life-cycle/" />
 </map>
+
+
+### DevOps
+@see - [GitHub - DevOps : awesome learning](https://github.com/Lets-DevOps/awesome-learning)
+
+![DevOps](images/DevOps.png)
+
+DevOps is the Development and Operations efforts within any organization.
+
+### Cloud
+@ see - [IT Infrastructure](https://en.wikipedia.org/wiki/IT_infrastructure)
+
+![Cloud](images/Cloud.png)
+
+Cloud concepts provide possibilities with structures for applications to exist.
+
+### Design
+@see - [W3C Web Design Standards](https://www.w3.org/standards/webdesign/)
+
+![Design](images/Design.png)
+
+Design specifications provide industry-standards with best practices for applications.
+
+### Planning
+@see - [OpenProject CE - Agile and SCRUM management](https://www.openproject.org/download-and-installation/)
+
+![Planning](images/Planning.png)
+
+Planning projects properly promotes performance and procedures.
+
+### Operations
+@see - [Debian Handbook - Monitoring](https://debian-handbook.info/browse/stable/sect.monitoring.html)
+
+Operations monitor efforts incrementally advance performance for applications.
+
+### Development
+@see - [Launchpad Development Wiki](https://dev.launchpad.net/)
+
+![Development](images/Development.png)
+
+Development coding efforts incrementally advance contributions for applications.
+
+### Agile
+@see - [Agile Model &amp; Methodology: Guide for Developers and Testers](https://www.guru99.com/agile-scrum-extreme-testing.html)
+
+![Agile](images/Agile.png)
+
+Agile methodologies define flexible processes and policies for team performance and velocity.
+
+### CD - Continous Delivery
+@see - [Continuous Delivery Pipleline](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+![CD](images/CD.png)
+
+Coninuous Delivery defines deployment stages for applications.
+
+### CI - Continous Integration
+@see - [Continuous Integration Processes](https://en.wikipedia.org/wiki/Continuous_integration)
+
+![CI](images/CI.png)
+
+Continuous Integration defines testing cycles for applications.
+
+### UAT - User Acceptance Testing
+@see - [User Acceptance Testing](https://www.toolsqa.com/software-testing/user-acceptance-testing-uat/)
+
+![UAT](images/UAT.png)
+
+User Acceptance Testing is the process for validating applications.
+
+### SDLC - Software Development Life Cycle
+@see - [SDLC - Software Development Life Cycle](https://www.softwaretestingmaterial.com/sdlc-software-development-life-cycle/)
+
+![SDLC](images/SDLC.png)
+
+Software Development Life Cycle is the evolution process for applications.
+
+
+
+

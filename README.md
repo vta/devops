@@ -24,3 +24,47 @@ As time permits, we will continue our efforts to add documentation, guidelines, 
 <area shape="circle" coords="384,704,52" alt="User Acceptance Testing " target="_blank" href="https://www.toolsqa.com/software-testing/user-acceptance-testing-uat/" />
 <area shape="circle" coords="383,868,65" alt="SDLC - Software Development Life Cycle" target="_blank" href="https://www.softwaretestingmaterial.com/sdlc-software-development-life-cycle/" />
 </map>
+
+
+### DevOps
+![DevOps](images/DevOps.png)
+
+@see - [GitHub - DevOps : awesome learning](https://github.com/Lets-DevOps/awesome-learning)
+
+
+### Cloud
+
+
+### Design
+
+
+### Planning
+
+
+### Operations
+
+
+### Development
+
+
+### Agile
+
+
+### CD - Continous Delivery
+
+
+### CI - Continous Integration
+
+
+
+### UAT - User Acceptance Testing
+
+
+
+### SDLC - Software Development Life Cycle
+
+
+
+
+
+

@@ -1,7 +1,7 @@
 # DevOps Developer Guidelines & Resources
 VTA development teams have implemented a Board of Directors initiative to adopt industry-standard best practices for software development and deployment to become an innovator in technology within Silicon Valley to help educate, facilitate, and assist other public transit agencies and government organizations in promoting public transit use.
 
-We request all software developers, project managers, and user acceptance testing stakeholders follow and adhere to the [Agile methodologies as documented in our Wiki on GitHub](https://github.com/vta/devops/wiki).
+#### We request all software developers, project managers, and user acceptance testing stakeholders follow and adhere to the [Agile methodologies as documented in our Wiki on GitHub](https://github.com/vta/devops/wiki).
 
 As time permits, we will continue our efforts to add documentation, guidelines, and recommendations to explain further our concept of Agile methodologies and the SDLC, as illustrated in the diagram below.
 
@@ -24,4 +24,3 @@ As time permits, we will continue our efforts to add documentation, guidelines, 
 <area shape="circle" coords="384,704,52" alt="User Acceptance Testing " target="_blank" href="https://www.toolsqa.com/software-testing/user-acceptance-testing-uat/" />
 <area shape="circle" coords="383,868,65" alt="SDLC - Software Development Life Cycle" target="_blank" href="https://www.softwaretestingmaterial.com/sdlc-software-development-life-cycle/" />
 </map>
-

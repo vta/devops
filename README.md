@@ -67,7 +67,7 @@ Operations monitor efforts incrementally advance performance for applications.
 Development coding efforts incrementally advance contributions for applications.
 
 ### Agile
-@see - [Agile Model &amp; Methodology: Guide for Developers and Testers](https://www.guru99.com/agile-scrum-extreme-testing.html)
+@see - [Agile Essentials](https://www.agilealliance.org/agile-essentials/)
 
 ![Agile](images/Agile.png)
 

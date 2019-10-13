@@ -60,7 +60,7 @@ Planning projects properly promotes performance and procedures.
 ### Operations
 @see - [Debian Handbook - Monitoring](https://debian-handbook.info/browse/stable/sect.monitoring.html)
 
-Operations monitor efforts incrementally advance performance for applications.
+Operations monitoring efforts incrementally improve performance for applications.
 
 ### Development
 @see - [Launchpad Development Wiki](https://dev.launchpad.net/)

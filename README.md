@@ -34,10 +34,7 @@ As time permits, we will continue our efforts to add documentation, guidelines, 
 DevOps is the Development and Operations efforts within any organization.
 
 ### Cloud
-@ see - [IT Infrastructure](https://en.wikipedia.org/wiki/IT_infrastructure)
-<!--
-    @todo - Above hyperlink could use improvement to refine the Agile/SDLC cloud definition more cleary and simply
--->
+@ see - [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
 
 ![Cloud](images/Cloud.png)
 

@@ -35,6 +35,9 @@ DevOps is the Development and Operations efforts within any organization.
 
 ### Cloud
 @ see - [IT Infrastructure](https://en.wikipedia.org/wiki/IT_infrastructure)
+<!--
+    @todo - Above hyperlink could use improvement to refine the Agile/SDLC cloud definition more cleary and simply
+-->
 
 ![Cloud](images/Cloud.png)
 
@@ -67,7 +70,7 @@ Operations monitor efforts incrementally advance performance for applications.
 Development coding efforts incrementally advance contributions for applications.
 
 ### Agile
-@see - [Agile Model &amp; Methodology: Guide for Developers and Testers](https://www.guru99.com/agile-scrum-extreme-testing.html)
+@see - [Agile Essentials](https://www.agilealliance.org/agile-essentials/)
 
 ![Agile](images/Agile.png)
 
